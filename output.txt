@@ -1,0 +1,36 @@
+﻿
+  Id CommandLine                                                                                                                                                                                                           
+  -- -----------                                                                                                                                                                                                           
+   1 try { . "c:\Users\sunil\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}                                                      
+   2 python .\todo.py                                                                                                                                                                                                      
+   3 git init                                                                                                                                                                                                              
+   4 git add todo.py                                                                                                                                                                                                       
+   5 git commit -m "Initial commit: todo.py added with basic functionalities"                                                                                                                                              
+   6 git remote add origin https://github.com/CS303-G2/To-Do-List-APP.git...                                                                                                                                               
+   7 git status                                                                                                                                                                                                            
+   8 git log --oneline                                                                                                                                                                                                     
+   9 git checkout -b feature-1                                                                                                                                                                                             
+  10 git log --oneline                                                                                                                                                                                                     
+  11 git branch                                                                                                                                                                                                            
+  12 python .\todo.py                                                                                                                                                                                                      
+  13 git add todo.py                                                                                                                                                                                                       
+  14 git commit -m "Added remove_task function to feature-1"                                                                                                                                                               
+  15 git checkout main                                                                                                                                                                                                     
+  16 git checkout -b bug-fix                                                                                                                                                                                               
+  17 python .\todo.py                                                                                                                                                                                                      
+  18 python .\todo.py                                                                                                                                                                                                      
+  19 git add todo.py                                                                                                                                                                                                       
+  20 git commit -m "Fixed bug: Prevent adding empty tasks"                                                                                                                                                                 
+  21 git checkout main                                                                                                                                                                                                     
+  22 git branch                                                                                                                                                                                                            
+  23 git merge bug-fix                                                                                                                                                                                                     
+  24 git merge feature-1                                                                                                                                                                                                   
+  25 git merge feature-1                                                                                                                                                                                                   
+  26 git status                                                                                                                                                                                                            
+  27 git status                                                                                                                                                                                                            
+  28 git add todo.py                                                                                                                                                                                                       
+  29 git commit -m "Slight changes added"                                                                                                                                                                                  
+  30 git push                                                                                                                                                                                                              
+  31 history                                                                                                                                                                                                               
+
+
